@@ -1,0 +1,65 @@
+Exporter version: 5.4.2, Blender version: 2.76 (sub 0)
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used:
+		selected layers only:  false
+		flat shading entire scene:  false
+		inline textures:  false
+		texture directory:  /home/dimitar/www/goleada-new.local/public_html/3d/git/
+	Python World class constructor completed
+	WARNING: No active camera has been assigned, or is not in a currently selected Blender layer
+	processing begun of skeleton:  skeleton, id:  0
+		processing begun of bone:  mixamorig:Hips, index:  0
+		processing begun of bone:  mixamorig:Spine, index:  1
+		processing begun of bone:  mixamorig:Spine1, index:  2
+		processing begun of bone:  mixamorig:Spine2, index:  3
+		processing begun of bone:  mixamorig:Neck, index:  4
+		processing begun of bone:  mixamorig:Head, index:  5
+		processing begun of bone:  mixamorig:LeftShoulder, index:  6
+		processing begun of bone:  mixamorig:LeftArm, index:  7
+		processing begun of bone:  mixamorig:LeftForeArm, index:  8
+		processing begun of bone:  mixamorig:LeftHand, index:  9
+		processing begun of bone:  mixamorig:LeftHandThumb1, index:  10
+		processing begun of bone:  mixamorig:LeftHandIndex1, index:  11
+		processing begun of bone:  mixamorig:LeftHandIndex2, index:  12
+		processing begun of bone:  mixamorig:RightShoulder, index:  13
+		processing begun of bone:  mixamorig:RightArm, index:  14
+		processing begun of bone:  mixamorig:RightForeArm, index:  15
+		processing begun of bone:  mixamorig:RightHand, index:  16
+		processing begun of bone:  mixamorig:RightHandThumb1, index:  17
+		processing begun of bone:  mixamorig:RightHandIndex1, index:  18
+		processing begun of bone:  mixamorig:RightHandIndex2, index:  19
+		processing begun of bone:  mixamorig:LeftUpLeg, index:  20
+		processing begun of bone:  mixamorig:LeftLeg, index:  21
+		processing begun of bone:  mixamorig:LeftFoot, index:  22
+		processing begun of bone:  mixamorig:LeftToeBase, index:  23
+		processing begun of bone:  mixamorig:RightUpLeg, index:  24
+		processing begun of bone:  mixamorig:RightLeg, index:  25
+		processing begun of bone:  mixamorig:RightFoot, index:  26
+		processing begun of bone:  mixamorig:RightToeBase, index:  27
+		processing action Action.002:  in[0 - 137], out[0 - 137]
+	processing begun of mesh:  player
+		processing begun of Standard material:  Skin
+		processing begun of Standard material:  Shirt
+		processing begun of Standard material:  Shorts
+		processing begun of Standard material:  Shoes
+		processing begun of Standard material:  Socks
+		processing begun of Standard material:  Gloves
+		processing begun of Standard material:  Hair
+		processing begun of multimaterial:  player.Multimaterial#0
+		num positions      :  472
+		num normals        :  472
+		num uvs            :  944
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1212
+		Skeleton stats:  
+			Total Influencers:  1057
+			Avg # of influencers per vertex:  2.2394
+			Highest # of influencers observed:  8, num vertices with this:  1
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  3776
+	processing begun of light (HEMI):  Hemi
+========= Writing of scene file started =========
+========= Writing of scene file completed =========
+========= end of processing =========
+elapsed time:  0 min, 0.4116 secs
